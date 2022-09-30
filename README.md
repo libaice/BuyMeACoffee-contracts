@@ -7,4 +7,4 @@
 
 3. deployed Contract  https://mumbai.polygonscan.com/address/0x11cc4072a68ba42961dc4f65630a58d116fb3cdc#writeContract
 
-4. opensea show 
+4. opensea show     https://testnets.opensea.io/collection/chain-battles-nylooma9xo
